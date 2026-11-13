@@ -2,7 +2,7 @@
 
 Full-stack software engineer. I build web applications, backend services and desktop software, from the database schema to the interface, and I care about systems that stay correct under load: transactional booking, isolated tenants, background job pipelines and payment flows.
 
-Portfolio: [erdi-portfolio-nu.vercel.app](https://erdi-portfolio-nu.vercel.app/)
+Portfolio: [erdilatifi.vercel.app](https://erdilatifi.vercel.app/)
 
 ### Selected projects
 
